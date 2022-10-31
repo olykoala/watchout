@@ -1,4 +1,5 @@
 const {readdirSync} = require("fs");
+const db=require("quick.db")
 
 // Example of how to make a Help Command
 
