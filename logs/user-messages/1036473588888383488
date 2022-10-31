@@ -1,0 +1,278 @@
+
+
+Watchout#2376 (1036473588888383488): 
+Message ID: 1036474433726074961 Channel: #general
+
+Watchout#2376 (1036473588888383488): **Example:**
+`!config plugins install moderation`
+`!config plugins remove moderation`
+
+**Available Plugins:** moderation, utility, message-logs, mod-logs
+Message ID: 1036477406413869086 Channel: #yum
+
+Watchout#2376 (1036473588888383488): **Example:**
+`!config plugins install message-logs [channel-ID]`
+Message ID: 1036478051371991160 Channel: #yum
+
+Watchout#2376 (1036473588888383488): <:join:1031439824361639976> This channel will now log when a message is deleted/updated.
+Message ID: 1036478100491485284 Channel: #suggestions
+
+Watchout#2376 (1036473588888383488): <:yes:1024702490865844274> Plugin `message-logs` has been installed | `suggestions`
+Message ID: 1036478100667629589 Channel: #yum
+
+Watchout#2376 (1036473588888383488): <:join:1031439824361639976> This channel will now log when a moderation action is declared.
+Message ID: 1036478193730854934 Channel: #head-mod-news
+
+Watchout#2376 (1036473588888383488): <:yes:1024702490865844274> Plugin `mod-logs` has been installed | `head-mod-news`
+Message ID: 1036478194313863278 Channel: #yum
+
+Watchout#2376 (1036473588888383488): Config options:
+permissions, plugins, modlogs
+Message ID: 1036480585218146334 Channel: #yum
+
+Watchout#2376 (1036473588888383488): **Example:**
+`!config permissions 25 @Moderator`
+
+**Level Meanings:**
+15: Usually trainee moderator, can use commands such as clear, kick, mute, nick, note, slowmode & warn
+25: Pretty much the same as lvl. 15 but can use the ban command
+50: Same as lvl. 25 but can use commands such as lock & unlock.
+75: Can use all commands.
+Message ID: 1036480608551059498 Channel: #yum
+
+Watchout#2376 (1036473588888383488): **Example:**
+`!config plugins install moderation`
+`!config plugins remove moderation`
+
+**Available Plugins:** moderation, utility, message-logs, mod-logs
+Message ID: 1036480623046570045 Channel: #yum
+
+Watchout#2376 (1036473588888383488): **Example:**
+`!config plugins install moderation`
+`!config plugins remove moderation`
+
+**Available Plugins:** `moderation`, `utility`, `message-logs`, `mod-logs`
+Message ID: 1036481312841793536 Channel: #yum
+
+Watchout#2376 (1036473588888383488): **Koala#0120:** (`1036482152323366963`) eeee
+Message ID: 1036482160284139530 Channel: #suggestions
+
+Watchout#2376 (1036473588888383488): **Koala#0120** (`529995365714231327`)
+BEFORE: test
+NOW: testing
+Message ID: 1036482175677247510 Channel: #suggestions
+Message ID: 1036482185353511043 Channel: #suggestions
+
+Watchout#2376 (1036473588888383488): **Koala#0120:** (`1036482376831877151`) e
+Message ID: 1036482376831877151 Channel: #<#911187787972235265>
+Message ID: 1036482382594850866 Channel: #suggestions
+
+Watchout#2376 (1036473588888383488): **Koala#0120** (`529995365714231327`)
+BEFORE: ttetetetetteeefassdfkghdskjhgksdjh
+NOW: ttetetetetteeefassdfkghdskjhgksdjh
+fo;dhsdilsuh
+Message ID: 1036482554712297513 Channel: <#911187787972235265>
+Message ID: 1036482567613972560 Channel: #suggestions
+
+Watchout#2376 (1036473588888383488): **Koala#0120:** (`1036482659129503784`) e
+Message ID: 1036482659129503784 Channel: #<#911187787972235265>
+Message ID: 1036482666410823782 Channel: #suggestions
+
+Watchout#2376 (1036473588888383488): **Koala#0120:** (`1036482723864387595`) rrrjjloahjks
+Message ID: 1036482723864387595 Channel: <#911187787972235265>
+Message ID: 1036482730894053476 Channel: #suggestions
+
+Watchout#2376 (1036473588888383488): 
+Message ID: 1036482744835903488 Channel: #suggestions
+
+Watchout#2376 (1036473588888383488): You can not ban this user as they have `MANAGE_MESSAGES` permissions.
+Message ID: 1036482913027510332 Channel: #yum
+
+Watchout#2376 (1036473588888383488): <:ban:1031439980020633703> **Wave#9634** (`930079200428318730`) has been banned by **Koala#0120**.
+
+<:note:1031440086144917574> <@930079200428318730> te
+Message ID: 1036483419577790555 Channel: #head-mod-news
+
+Watchout#2376 (1036473588888383488): <:ban:1031439980020633703> **Wave#9634** has been banned.
+Message ID: 1036483419804278804 Channel: #yum
+
+Watchout#2376 (1036473588888383488): **Koala#0120:** (`1036483418550194237`) !ban <@930079200428318730> te
+Message ID: 1036483418550194237 Channel: <#899611065418133524>
+Message ID: 1036483419980439572 Channel: #suggestions
+
+Watchout#2376 (1036473588888383488): Due to security reasons, you cannot ban members with the kick members permission.
+Message ID: 1036483915147391006 Channel: #yum
+
+Watchout#2376 (1036473588888383488): <:quest:1031441183748132925> I looked far and wide but that user is nowhere to be found!
+Message ID: 1036484070315655268 Channel: #yum
+
+Watchout#2376 (1036473588888383488): <:ban:1031439980020633703> **Wave#9634** has been banned.
+Message ID: 1036484143149764618 Channel: #yum
+
+Watchout#2376 (1036473588888383488): <:ban:1031439980020633703> **Wave#9634** (`930079200428318730`) has been banned by **Koala#0120**.
+
+<:note:1031440086144917574> 930079200428318730 testing uwu yes bby
+Message ID: 1036484143254605884 Channel: #head-mod-news
+
+Watchout#2376 (1036473588888383488): **Koala#0120:** (`1036484141925019711`) !ban 930079200428318730 testing uwu yes bby
+Message ID: 1036484141925019711 Channel: <#899611065418133524>
+Message ID: 1036484144072507443 Channel: #suggestions
+
+Watchout#2376 (1036473588888383488): <:ban:1031439980020633703> **Wave#9634** (`930079200428318730`) has been banned by **Koala#0120**.
+
+<:note:1031440086144917574> 930079200428318730 yes bby
+Message ID: 1036484265384345621 Channel: #head-mod-news
+
+Watchout#2376 (1036473588888383488): <:ban:1031439980020633703> **Wave#9634** has been banned.
+Message ID: 1036484266105782352 Channel: #yum
+
+Watchout#2376 (1036473588888383488): **Koala#0120:** (`1036484264868466708`) !ban 930079200428318730 yes bby
+Message ID: 1036484264868466708 Channel: <#899611065418133524>
+Message ID: 1036484265984143392 Channel: #suggestions
+
+Watchout#2376 (1036473588888383488): Welcome to the server <@1005101614564114523>!
+Message ID: 1036484497111261215 Channel: #general
+
+Watchout#2376 (1036473588888383488): <:ban:1031439980020633703> You have been banned from kooalala emojis for lol.
+Message ID: 1036484731384107048 Channel: #undefined
+
+Watchout#2376 (1036473588888383488): <:ban:1031439980020633703> **Moyai#2019** (`1005101614564114523`) has been banned by **Koala#0120**.
+
+<:note:1031440086144917574> lol
+Message ID: 1036484733623877684 Channel: #head-mod-news
+
+Watchout#2376 (1036473588888383488): <:ban:1031439980020633703> **Moyai#2019** has been banned.
+Message ID: 1036484733934243840 Channel: #yum
+
+Watchout#2376 (1036473588888383488): **Koala#0120:** (`1036484728645242951`) !ban 1005101614564114523 lol
+Message ID: 1036484728645242951 Channel: <#899611065418133524>
+Message ID: 1036484734336901120 Channel: #suggestions
+
+Watchout#2376 (1036473588888383488): **Example:**
+`!config permissions 25 @Moderator`
+
+**Level Meanings:**
+15: Usually trainee moderator, can use commands such as clear, kick, mute, nick, note, slowmode & warn
+25: Pretty much the same as lvl. 15 but can use the ban command
+50: Same as lvl. 25 but can use commands such as lock & unlock.
+75: Can use all commands.
+Message ID: 1036485610795434084 Channel: #yum
+
+Watchout#2376 (1036473588888383488): **Example:**
+`!config plugins install moderation`
+`!config plugins remove moderation`
+
+**Available Plugins:** `moderation`, `utility`, `message-logs`, `mod-logs`
+Message ID: 1036485630978424832 Channel: #yum
+
+Watchout#2376 (1036473588888383488): 
+Message ID: 1036487275678289930 Channel: #testing
+
+Watchout#2376 (1036473588888383488): **Example:**
+`!config plugins install moderation`
+`!config plugins remove moderation`
+
+**Available Plugins:** `moderation`, `utility`, `message-logs`, `mod-logs`
+Message ID: 1036487376672931860 Channel: #testing
+
+Watchout#2376 (1036473588888383488): Plugin not installed.
+Message ID: 1036487425507201155 Channel: #testing
+
+Watchout#2376 (1036473588888383488): <:yes:1024702490865844274> Plugin `moderation` has been installed.
+Message ID: 1036487511154888785 Channel: #testing
+
+Watchout#2376 (1036473588888383488): Config options:
+permissions, plugins
+Message ID: 1036487603953872906 Channel: #testing
+
+Watchout#2376 (1036473588888383488): **Example:**
+`!config permissions 25 @Moderator`
+
+**Level Meanings:**
+15: Usually trainee moderator, can use commands such as clear, kick, mute, nick, note, slowmode & warn
+25: Pretty much the same as lvl. 15 but can use the ban command
+50: Same as lvl. 25 but can use commands such as lock & unlock.
+75: Can use all commands.
+Message ID: 1036487721369210900 Channel: #testing
+
+Watchout#2376 (1036473588888383488): <:yes:1024702490865844274> Role 995322591944380477 has been set to level 75
+Message ID: 1036487768420929556 Channel: #testing
+
+Watchout#2376 (1036473588888383488): 
+Message ID: 1036487785990864996 Channel: #undefined
+
+Watchout#2376 (1036473588888383488): 
+Message ID: 1036487787060408350 Channel: #testing
+
+Watchout#2376 (1036473588888383488): 
+Message ID: 1036487810644967575 Channel: #testing
+
+Watchout#2376 (1036473588888383488): 
+Message ID: 1036487912218447902 Channel: #undefined
+
+Watchout#2376 (1036473588888383488): 
+Message ID: 1036487912642060348 Channel: #testing
+
+Watchout#2376 (1036473588888383488): 
+Message ID: 1036487946834018374 Channel: #testing
+
+Watchout#2376 (1036473588888383488): 
+Message ID: 1036488569117753414 Channel: #testing
+
+Watchout#2376 (1036473588888383488): **Example:**
+`!config plugins install moderation`
+`!config plugins remove moderation`
+
+**Available Plugins:** `moderation`, `utility`, `message-logs`, `mod-logs`
+Message ID: 1036488619524898816 Channel: #testing
+
+Watchout#2376 (1036473588888383488): <:join:1031439824361639976> This channel will now log when a message is deleted/updated.
+Message ID: 1036488786764374086 Channel: #private
+
+Watchout#2376 (1036473588888383488): <:yes:1024702490865844274> Plugin `message-logs` has been installed | `private`
+Message ID: 1036488786865029120 Channel: #testing
+
+Watchout#2376 (1036473588888383488): **Koala#0120:** (`1036488820507549777`) test
+Message ID: 1036488820507549777 Channel: <#970574683776888855>
+Message ID: 1036488831358222386 Channel: #private
+
+Watchout#2376 (1036473588888383488): **Riley?#6969:** (`1036488823011557486`) flip
+Message ID: 1036488823011557486 Channel: <#970574683776888855>
+Message ID: 1036488831937036368 Channel: #private
+
+Watchout#2376 (1036473588888383488): **Koala#0120** (`529995365714231327`)
+BEFORE: this is cool
+NOW: this is cool yes
+Message ID: 1036488850891087893 Channel: <#970574683776888855>
+Message ID: 1036488861620121622 Channel: #private
+
+Watchout#2376 (1036473588888383488): **Koala#0120** (`529995365714231327`)
+BEFORE: eee
+NOW: eeedd
+Message ID: 1036488962707042319 Channel: <#911187787972235265>
+Message ID: 1036488971368288338 Channel: #suggestions
+
+Watchout#2376 (1036473588888383488): Config options:
+permissions, plugins
+Message ID: 1036494863333589052 Channel: #yum
+
+Watchout#2376 (1036473588888383488): **Koala#0120:** (`1036493925415931904`) \<:yes:1024702490865844274>
+Message ID: 1036493925415931904 Channel: <#899611065418133524>
+Message ID: 1036494875501273128 Channel: #suggestions
+
+Watchout#2376 (1036473588888383488): **Example:**
+`!config permissions 25 @Moderator`
+
+**Level Meanings:**
+15: Usually trainee moderator, can use commands such as clear, kick, mute, nick, note, slowmode & warn
+25: Pretty much the same as lvl. 15 but can use the ban command
+50: Same as lvl. 25 but can use commands such as lock & unlock.
+75: Can use all commands.
+Message ID: 1036494893020880926 Channel: #yum
+
+Watchout#2376 (1036473588888383488): **Example:**
+`!config plugins install moderation`
+`!config plugins remove moderation`
+
+**Available Plugins:** `moderation`, `utility`, `message-logs`, `mod-logs`
+Message ID: 1036494907365400616 Channel: #yum

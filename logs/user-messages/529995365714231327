@@ -1,0 +1,585 @@
+
+
+Koala#0120 (529995365714231327): e
+Message ID: 1036426496706879510 Channel: #yum
+
+Koala#0120 (529995365714231327): e
+Message ID: 1036427813605097594 Channel: #yum
+
+Koala#0120 (529995365714231327): -help
+Message ID: 1036427834270416896 Channel: #yum
+
+Koala#0120 (529995365714231327): -ping
+Message ID: 1036427906978676748 Channel: #yum
+
+Koala#0120 (529995365714231327): !config
+Message ID: 1036439528623308852 Channel: #yum
+
+Koala#0120 (529995365714231327): !config permissions
+Message ID: 1036439551188676649 Channel: #yum
+
+Koala#0120 (529995365714231327): !config permissions
+Message ID: 1036439650912452660 Channel: #yum
+
+Koala#0120 (529995365714231327): !config permissions 25 <@&752047008394510446>
+Message ID: 1036440113628053545 Channel: #yum
+
+Koala#0120 (529995365714231327): !config permissions 25 <@&752047008394510446>
+Message ID: 1036440444202131516 Channel: #yum
+
+Koala#0120 (529995365714231327): !ev db.get(`perms_733916522782654516-25`)
+Message ID: 1036440743125987400 Channel: #yum
+
+Koala#0120 (529995365714231327): !config permissions 25 <@&752047008394510446>
+Message ID: 1036441226829901886 Channel: #yum
+
+Koala#0120 (529995365714231327): !ev db.get(`perms_733916522782654516-25`)
+Message ID: 1036441245842677800 Channel: #yum
+
+Koala#0120 (529995365714231327): !config permissions 25 <@&752047008394510446>
+Message ID: 1036441360137474099 Channel: #yum
+
+Koala#0120 (529995365714231327): !config permissions 25 <@&752047008394510446>
+Message ID: 1036445019931942922 Channel: #yum
+
+Koala#0120 (529995365714231327): !ev db.get(`perms_733916522782654516-25`)
+Message ID: 1036445041784258672 Channel: #yum
+
+Koala#0120 (529995365714231327): !config permissions 25 <@&752047008394510446>
+Message ID: 1036445653561266228 Channel: #yum
+
+Koala#0120 (529995365714231327): !ev db.get(`perms_733916522782654516-25`)
+Message ID: 1036445669533175880 Channel: #yum
+
+Koala#0120 (529995365714231327): !warn
+Message ID: 1036446246379999282 Channel: #yum
+
+Koala#0120 (529995365714231327): !warn
+Message ID: 1036446285999394836 Channel: #yum
+
+Koala#0120 (529995365714231327): <:yes:1024702490865844274>
+Message ID: 1036447282956083230 Channel: #yum
+
+Koala#0120 (529995365714231327): !config permissions <@&900153740575780915> 75
+Message ID: 1036448710546182155 Channel: #yum
+
+Koala#0120 (529995365714231327): !config permissions <@&900153740575780915> 75
+Message ID: 1036448764333928488 Channel: #yum
+
+Koala#0120 (529995365714231327): !config
+Message ID: 1036449149014515732 Channel: #yum
+
+Koala#0120 (529995365714231327): !config permissions
+Message ID: 1036449174662688788 Channel: #yum
+
+Koala#0120 (529995365714231327): !config permissions 75 <@&900153740575780915>
+Message ID: 1036449248788623440 Channel: #yum
+
+Koala#0120 (529995365714231327): !config permissions 100 <@&740452158218043396>
+Message ID: 1036449417114419341 Channel: #yum
+
+Koala#0120 (529995365714231327): !config permissions 100 <@&740452158218043396>
+Message ID: 1036449657280282674 Channel: #yum
+
+Koala#0120 (529995365714231327): !config permissions <@&923766978496303115> 15
+Message ID: 1036449716029902978 Channel: #yum
+
+Koala#0120 (529995365714231327): !config permissions 15 <@&923766978496303115>
+Message ID: 1036449785286242395 Channel: #yum
+
+Koala#0120 (529995365714231327): !config plugins
+Message ID: 1036452123799470110 Channel: #yum
+
+Koala#0120 (529995365714231327): !config plguins
+Message ID: 1036452214778118155 Channel: #yum
+
+Koala#0120 (529995365714231327): !config plugins
+Message ID: 1036452235556691988 Channel: #yum
+
+Koala#0120 (529995365714231327): !config plugins
+Message ID: 1036452306864050298 Channel: #yum
+
+Koala#0120 (529995365714231327): !config plugins install moderation
+Message ID: 1036452544941129768 Channel: #yum
+
+Koala#0120 (529995365714231327): !ev db.delete(`plugins_moderation`, `${message.guild.id}`)
+Message ID: 1036452638348300359 Channel: #yum
+
+Koala#0120 (529995365714231327): !warn
+Message ID: 1036452650876686356 Channel: #yum
+
+Koala#0120 (529995365714231327): !config plugins install moderation
+Message ID: 1036452676050894858 Channel: #yum
+
+Koala#0120 (529995365714231327): !warn
+Message ID: 1036452686222069761 Channel: #yum
+
+Koala#0120 (529995365714231327): !warn
+Message ID: 1036452897145225348 Channel: #yum
+
+Koala#0120 (529995365714231327): !ev db.fetch(`plugins_${message.guild.id}-moderation`)
+Message ID: 1036452954187780217 Channel: #yum
+
+Koala#0120 (529995365714231327): !warn
+Message ID: 1036453015214903346 Channel: #yum
+
+Koala#0120 (529995365714231327): !config plugins install moderation
+Message ID: 1036453030503125082 Channel: #yum
+
+Koala#0120 (529995365714231327): !warn
+Message ID: 1036453043165728779 Channel: #yum
+
+Koala#0120 (529995365714231327): !ev db.fetch(`plugins_${message.guild.id}-moderation`)
+Message ID: 1036453104356433950 Channel: #yum
+
+Koala#0120 (529995365714231327): !wa
+Message ID: 1036453436822138952 Channel: #yum
+
+Koala#0120 (529995365714231327): !w
+Message ID: 1036453443696594944 Channel: #yum
+
+Koala#0120 (529995365714231327): !warn
+Message ID: 1036453453024731216 Channel: #yum
+
+Koala#0120 (529995365714231327): !warn
+Message ID: 1036453618926227459 Channel: #yum
+
+Koala#0120 (529995365714231327): !warn
+Message ID: 1036453792847233077 Channel: #yum
+
+Koala#0120 (529995365714231327): !ev db.fetch(`plugins_${message.guild.id}-moderation`)
+Message ID: 1036453818017267764 Channel: #yum
+
+Koala#0120 (529995365714231327): !ev db.delete(`plugins_${message.guild.id}-moderation`)
+Message ID: 1036453834928685076 Channel: #yum
+
+Koala#0120 (529995365714231327): !ev db.fetch(`plugins_${message.guild.id}-moderation`)
+Message ID: 1036453849461956660 Channel: #yum
+
+Koala#0120 (529995365714231327): !warn
+Message ID: 1036453865484206210 Channel: #yum
+
+Koala#0120 (529995365714231327): !config plugins remove moderation
+Message ID: 1036454137908441180 Channel: #yum
+
+Koala#0120 (529995365714231327): !config plugins install moderation
+Message ID: 1036454177888534548 Channel: #yum
+
+Koala#0120 (529995365714231327): !ev db.fetch(`plugins_${message.guild.id}-moderation`)
+Message ID: 1036454192920920084 Channel: #yum
+
+Koala#0120 (529995365714231327): !config plugins remove moderation
+Message ID: 1036454215331094618 Channel: #yum
+
+Koala#0120 (529995365714231327): !ev db.fetch(`plugins_${message.guild.id}-moderation`)
+Message ID: 1036454231634362408 Channel: #yum
+
+Koala#0120 (529995365714231327): !warn
+Message ID: 1036454393165398027 Channel: #yum
+
+Koala#0120 (529995365714231327): !config plugins install moderation
+Message ID: 1036454419845361714 Channel: #yum
+
+Koala#0120 (529995365714231327): !warn
+Message ID: 1036454429353840650 Channel: #yum
+
+Koala#0120 (529995365714231327): !warn
+Message ID: 1036454501927878696 Channel: #yum
+
+Koala#0120 (529995365714231327): !ev db.fetch(`plugins_${message.guild.id}-moderation`)
+Message ID: 1036454543216607243 Channel: #yum
+
+Koala#0120 (529995365714231327): !warn
+Message ID: 1036454552465063956 Channel: #yum
+
+Koala#0120 (529995365714231327): !warn
+Message ID: 1036454754416611380 Channel: #yum
+
+Koala#0120 (529995365714231327): !config permissions 25 <@&752047008394510446>
+Message ID: 1036454811803078726 Channel: #yum
+
+Koala#0120 (529995365714231327): !warn
+Message ID: 1036454827925970944 Channel: #yum
+
+Koala#0120 (529995365714231327): !warn
+Message ID: 1036454946549268591 Channel: #yum
+
+Koala#0120 (529995365714231327): !warn
+Message ID: 1036455058201645167 Channel: #yum
+
+Koala#0120 (529995365714231327): !config permissions 100 <@&740452158218043396>
+Message ID: 1036455147779399790 Channel: #yum
+
+Koala#0120 (529995365714231327): !config permissions 75 <@&740452158218043396>
+Message ID: 1036455198136225832 Channel: #yum
+
+Koala#0120 (529995365714231327): !warn
+Message ID: 1036455228385529856 Channel: #yum
+
+Koala#0120 (529995365714231327): !config plugins install moderation
+Message ID: 1036455292680015932 Channel: #yum
+
+Koala#0120 (529995365714231327): !warn
+Message ID: 1036455300699533383 Channel: #yum
+
+Koala#0120 (529995365714231327): !warn
+Message ID: 1036455577305497650 Channel: #yum
+
+Koala#0120 (529995365714231327): !warb
+Message ID: 1036455751201337394 Channel: #yum
+
+Koala#0120 (529995365714231327): !w
+Message ID: 1036455758121930803 Channel: #yum
+
+Koala#0120 (529995365714231327): !config permissions 25 <@&752047008394510446>
+Message ID: 1036455822907162635 Channel: #yum
+
+Koala#0120 (529995365714231327): !warn
+Message ID: 1036455876116095106 Channel: #yum
+
+Koala#0120 (529995365714231327): !warn
+Message ID: 1036456210230165574 Channel: #yum
+
+Koala#0120 (529995365714231327): !warn
+Message ID: 1036456265133609051 Channel: #yum
+
+Koala#0120 (529995365714231327): !warn
+Message ID: 1036456802939842591 Channel: #yum
+
+Koala#0120 (529995365714231327): !warn
+Message ID: 1036457118926131291 Channel: #yum
+
+Koala#0120 (529995365714231327): !warn
+Message ID: 1036457133450985522 Channel: #yum
+
+Koala#0120 (529995365714231327): !warn
+Message ID: 1036463812603289652 Channel: #yum
+
+Koala#0120 (529995365714231327): !config permissions 25 <@&752047008394510446>
+Message ID: 1036463885357678592 Channel: #yum
+
+Koala#0120 (529995365714231327): !config plugins install moderation
+Message ID: 1036463925023219753 Channel: #yum
+
+Koala#0120 (529995365714231327): !warn
+Message ID: 1036463945504006184 Channel: #yum
+
+Koala#0120 (529995365714231327): !warn
+Message ID: 1036464040429494283 Channel: #yum
+
+Koala#0120 (529995365714231327): 
+Message ID: 1036466038419767316 Channel: #general
+
+Koala#0120 (529995365714231327): stickers
+Message ID: 1036466053590569070 Channel: #general
+
+Koala#0120 (529995365714231327): !warn
+Message ID: 1036468728709263400 Channel: #yum
+
+Koala#0120 (529995365714231327): !w
+Message ID: 1036468777509994547 Channel: #yum
+
+Koala#0120 (529995365714231327): !w
+Message ID: 1036468957026189312 Channel: #yum
+
+Koala#0120 (529995365714231327): !w
+Message ID: 1036469594174537768 Channel: #yum
+
+Koala#0120 (529995365714231327): !w
+Message ID: 1036469654614462494 Channel: #yum
+
+Koala#0120 (529995365714231327): !w
+Message ID: 1036469889088626778 Channel: #yum
+
+Koala#0120 (529995365714231327): !w
+Message ID: 1036469912341852311 Channel: #yum
+
+Koala#0120 (529995365714231327): !config permissions 100 <@&740452158218043396>
+Message ID: 1036469975327703041 Channel: #yum
+
+Koala#0120 (529995365714231327): !config permissions 75 <@&740452158218043396>
+Message ID: 1036470006218764348 Channel: #yum
+
+Koala#0120 (529995365714231327): !w
+Message ID: 1036470039525732414 Channel: #yum
+
+Koala#0120 (529995365714231327): !w
+Message ID: 1036470094005555201 Channel: #yum
+
+Koala#0120 (529995365714231327): !w
+Message ID: 1036470120861663232 Channel: #yum
+
+Koala#0120 (529995365714231327): !config plugins remove moderation
+Message ID: 1036470446822010963 Channel: #yum
+
+Koala#0120 (529995365714231327): !warn
+Message ID: 1036470465264353330 Channel: #yum
+
+Koala#0120 (529995365714231327): !warn
+Message ID: 1036470513712779307 Channel: #yum
+
+Koala#0120 (529995365714231327): !warn
+Message ID: 1036470635716689920 Channel: #yum
+
+Koala#0120 (529995365714231327): !help
+Message ID: 1036471482315980841 Channel: #yum
+
+Koala#0120 (529995365714231327): !ban
+Message ID: 1036472392534462534 Channel: #yum
+
+Koala#0120 (529995365714231327): !config plugin install moderation
+Message ID: 1036472441674944522 Channel: #yum
+
+Koala#0120 (529995365714231327): !config plugins install moderation
+Message ID: 1036472494489616384 Channel: #yum
+
+Koala#0120 (529995365714231327): !ban
+Message ID: 1036472520192311336 Channel: #yum
+
+Koala#0120 (529995365714231327): !ban
+Message ID: 1036472556867293254 Channel: #yum
+
+Koala#0120 (529995365714231327): \<:warn:1031439922906804277>
+Message ID: 1036475680852017162 Channel: #yum
+
+Koala#0120 (529995365714231327): \<:join:1031439824361639976>
+Message ID: 1036476004757147658 Channel: #yum
+
+Koala#0120 (529995365714231327): !config plugins
+Message ID: 1036477406019588106 Channel: #yum
+
+Koala#0120 (529995365714231327): !config plugins install message-logs
+Message ID: 1036477507320426576 Channel: #yum
+
+Koala#0120 (529995365714231327): !config plugins install message-logs
+Message ID: 1036478050948349982 Channel: #yum
+
+Koala#0120 (529995365714231327): !config plugins install message-logs 911187787972235265
+Message ID: 1036478099807809636 Channel: #yum
+
+Koala#0120 (529995365714231327): !config plugins install mod-logs 923768424507797554
+Message ID: 1036478193156235274 Channel: #yum
+
+Koala#0120 (529995365714231327): !config
+Message ID: 1036480583058075658 Channel: #yum
+
+Koala#0120 (529995365714231327): !config permissions
+Message ID: 1036480608421019648 Channel: #yum
+
+Koala#0120 (529995365714231327): !config plugins
+Message ID: 1036480622589395035 Channel: #yum
+
+Koala#0120 (529995365714231327): !config plguins
+Message ID: 1036481293694804070 Channel: #yum
+
+Koala#0120 (529995365714231327): !config plugins
+Message ID: 1036481312439144448 Channel: #yum
+
+Koala#0120 (529995365714231327): e
+Message ID: 1036481973943816273 Channel: #yum
+
+Koala#0120 (529995365714231327): eeee
+Message ID: 1036482152323366963 Channel: #yum
+
+Koala#0120 (529995365714231327): test
+Message ID: 1036482175677247510 Channel: #suggestions
+
+MESSAGE EDIT
+Koala#0120 (529995365714231327)
+BEFORE: test
+NOW: testing
+Message ID: 1036482175677247510 Channel: #suggestions
+
+Koala#0120 (529995365714231327): e
+Message ID: 1036482376831877151 Channel: #suggestions
+
+Koala#0120 (529995365714231327): ttetetetetteeefassdfkghdskjhgksdjh
+Message ID: 1036482554712297513 Channel: #suggestions
+
+MESSAGE EDIT
+Koala#0120 (529995365714231327)
+BEFORE: ttetetetetteeefassdfkghdskjhgksdjh
+NOW: ttetetetetteeefassdfkghdskjhgksdjh
+fo;dhsdilsuh
+Message ID: 1036482554712297513 Channel: #suggestions
+
+Koala#0120 (529995365714231327): e
+Message ID: 1036482659129503784 Channel: #suggestions
+
+Koala#0120 (529995365714231327): rrrjjloahjks
+Message ID: 1036482723864387595 Channel: #suggestions
+
+Koala#0120 (529995365714231327): !clear 99
+Message ID: 1036482743929933854 Channel: #suggestions
+
+Koala#0120 (529995365714231327): !ban <@930079200428318730> testing
+Message ID: 1036482912389972010 Channel: #yum
+
+Koala#0120 (529995365714231327): !ban <@930079200428318730> te
+Message ID: 1036483418550194237 Channel: #yum
+
+Koala#0120 (529995365714231327): !ban <@930079200428318730> eee
+Message ID: 1036483914660855858 Channel: #yum
+
+Koala#0120 (529995365714231327): !ban <@&1014399143264927786> testing this uwu
+Message ID: 1036484069673934988 Channel: #yum
+
+Koala#0120 (529995365714231327): !ban 930079200428318730 testing uwu yes bby
+Message ID: 1036484141925019711 Channel: #yum
+
+Koala#0120 (529995365714231327): !ban 930079200428318730 yes bby
+Message ID: 1036484264868466708 Channel: #yum
+
+Koala#0120 (529995365714231327): !ban 1005101614564114523 lol
+Message ID: 1036484728645242951 Channel: #yum
+
+Koala#0120 (529995365714231327): depends
+Message ID: 1036485034158334023 Channel: #general
+
+Koala#0120 (529995365714231327): We have internal reasons
+Message ID: 1036485073131802735 Channel: #general
+
+Koala#0120 (529995365714231327): uhh
+Message ID: 1036485270373158932 Channel: #general
+
+Koala#0120 (529995365714231327): why
+Message ID: 1036485272910696508 Channel: #general
+
+Koala#0120 (529995365714231327): sure
+Message ID: 1036485333577125898 Channel: #general
+
+Koala#0120 (529995365714231327): dm me
+Message ID: 1036485338505433179 Channel: #general
+
+Koala#0120 (529995365714231327): invite
+Message ID: 1036485348311695430 Channel: #general
+
+Koala#0120 (529995365714231327): !config
+Message ID: 1036485594974539807 Channel: #yum
+
+Koala#0120 (529995365714231327): !config permissions
+Message ID: 1036485610136948790 Channel: #yum
+
+Koala#0120 (529995365714231327): !config plugins
+Message ID: 1036485630592552981 Channel: #yum
+
+Koala#0120 (529995365714231327): 
+Message ID: 1036487216085614622 Channel: #yum
+
+Koala#0120 (529995365714231327): !config
+Message ID: 1036487374378635354 Channel: #testing
+
+Koala#0120 (529995365714231327): utility isn't done
+Message ID: 1036487417932300318 Channel: #testing
+
+Koala#0120 (529995365714231327): !warn
+Message ID: 1036487424836108308 Channel: #testing
+
+Koala#0120 (529995365714231327): correct
+Message ID: 1036487497326284861 Channel: #testing
+
+Koala#0120 (529995365714231327): !w
+Message ID: 1036487526531215382 Channel: #testing
+
+Koala#0120 (529995365714231327): you need to config permissions
+Message ID: 1036487560551211078 Channel: #testing
+
+Koala#0120 (529995365714231327): use !config
+Message ID: 1036487585683476530 Channel: #testing
+
+Koala#0120 (529995365714231327): no
+Message ID: 1036487698589945918 Channel: #testing
+
+Koala#0120 (529995365714231327): yus
+Message ID: 1036487737550831646 Channel: #testing
+
+Koala#0120 (529995365714231327): yes
+Message ID: 1036487752327385159 Channel: #testing
+
+Koala#0120 (529995365714231327): <:why_ducky:908704963537043516>
+Message ID: 1036487844526555186 Channel: #testing
+
+Koala#0120 (529995365714231327): hmm
+Message ID: 1036487862109089793 Channel: #testing
+
+Koala#0120 (529995365714231327): did you add a reason to the warning?
+Message ID: 1036487911643811940 Channel: #testing
+
+Koala#0120 (529995365714231327): !warns
+Message ID: 1036487934754422784 Channel: #testing
+
+Koala#0120 (529995365714231327): ye
+Message ID: 1036487954643816488 Channel: #testing
+
+Koala#0120 (529995365714231327): now it works
+Message ID: 1036487961275019294 Channel: #testing
+
+Koala#0120 (529995365714231327): reinvite the bot
+Message ID: 1036488001804566559 Channel: #testing
+
+Koala#0120 (529995365714231327): !eval message.guild.leave()
+Message ID: 1036488066279415838 Channel: #testing
+
+Koala#0120 (529995365714231327): no
+Message ID: 1036488705021583390 Channel: #testing
+
+Koala#0120 (529995365714231327): just try
+Message ID: 1036488723006750800 Channel: #testing
+
+Koala#0120 (529995365714231327): ok
+Message ID: 1036488802014859274 Channel: #testing
+
+Koala#0120 (529995365714231327): test
+Message ID: 1036488820507549777 Channel: #testing
+
+Koala#0120 (529995365714231327): this is cool
+Message ID: 1036488850891087893 Channel: #testing
+
+MESSAGE EDIT
+Koala#0120 (529995365714231327)
+BEFORE: this is cool
+NOW: this is cool yes
+Message ID: 1036488850891087893 Channel: #testing
+
+Koala#0120 (529995365714231327): eee
+Message ID: 1036488962707042319 Channel: #suggestions
+
+MESSAGE EDIT
+Koala#0120 (529995365714231327)
+BEFORE: eee
+NOW: eeedd
+Message ID: 1036488962707042319 Channel: #suggestions
+
+Koala#0120 (529995365714231327): there is a buttoin
+Message ID: 1036489012426309772 Channel: #testing
+
+Koala#0120 (529995365714231327): 
+Image Link: https://cdn.discordapp.com/attachments/970574683776888855/1036489019409838100/unknown.png
+Message ID: 1036489019871199232 Channel: #testing
+
+Koala#0120 (529995365714231327): why
+Message ID: 1036489076137807992 Channel: #testing
+
+Koala#0120 (529995365714231327): ehh
+Message ID: 1036489108400373800 Channel: #testing
+
+Koala#0120 (529995365714231327): no
+Message ID: 1036489111076343829 Channel: #testing
+
+Koala#0120 (529995365714231327): ok anyways
+Message ID: 1036489123705393182 Channel: #testing
+
+Koala#0120 (529995365714231327): !ev message.guild.leave()
+Message ID: 1036489222288330813 Channel: #testing
+
+Koala#0120 (529995365714231327): \<:yes:1024702490865844274>
+Message ID: 1036493925415931904 Channel: #yum
+
+Koala#0120 (529995365714231327): !config
+Message ID: 1036494862238892072 Channel: #yum
+
+Koala#0120 (529995365714231327): !config permissions
+Message ID: 1036494892177821797 Channel: #yum
+
+Koala#0120 (529995365714231327): !config plugins
+Message ID: 1036494906652368896 Channel: #yum
