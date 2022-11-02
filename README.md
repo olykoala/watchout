@@ -1,8 +1,10 @@
+# Watchout
+
 Watchout is a utility and moderation bot for Discord servers, designed for and with large servers and flexibility in mind.
 
 A plugin based Discord bot looking forward to add more and more plugins over time! *(hopfully with the help of contributors)*
 
-# Current Plugins
+## Current Plugins
 - Moderation
 - Utility
 - Message Logs
